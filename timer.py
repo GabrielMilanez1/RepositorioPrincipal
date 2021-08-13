@@ -5,7 +5,6 @@ import pyautogui
 
 segundos_contador = 0
 minutos_contador = 0
-
 minutos_alarme_all = str(input('Escreva a quantidade de minutos para o timer: '))
 while type(minutos_alarme_all) != int:
     if minutos_alarme_all.isdigit() == True:
@@ -13,7 +12,6 @@ while type(minutos_alarme_all) != int:
         break
     else:
         minutos_alarme_all = str(input('Você deve inserir um número! Escreva novamente: '))
-
 segundos_alarme_all = str(input('Escreva a quantidade de segundos para o timer. (Apenas um número de 0 a 59): '))
 while type(segundos_alarme_all) != int:
     if segundos_alarme_all.isdigit() == True and int(segundos_alarme_all) <= 59:
@@ -21,7 +19,6 @@ while type(segundos_alarme_all) != int:
         break
     else:
         segundos_alarme_all = str(input('Você deve inserir um número! (E que seja apenas um número de 0 a 59). Escreva novamente: '))
-
 while segundos_contador <= 70:
     if segundos_contador == 59:
         time.sleep(1)
