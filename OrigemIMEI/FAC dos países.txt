@@ -1,0 +1,26 @@
+Fábrica Original da marca = 00
+Alemanha = 06, 08, 78
+Alemanha ou Coreia do Sul = 07
+Azerbaijão = 13
+Brasil, Estados Unidos ou Finlândia = 05, 50
+China = 03, 49, 81, 92, 93
+China, Alemanha ou Hungria = 80
+China ou Vietnam = 11
+Cingapura = 18, 60
+Coreia do Sul = 30
+Coreia do Sul ou Emirados Árabes Unidos = 02
+Emirados Árabes Unidos = 20
+Escócia = 40, 41
+Estados Unidos = 67
+Finlândia = 01, 10, 70, 91
+Hungria ou China = 04
+Índia = 09
+Inglaterra = 19
+Malásia = 71
+Reino Unido = 44
+
+Fontes: 
+
+http://www.mobilecellphonerepairing.com/how-to-know-country-of-origin-of-mobile-phone-from-imei-number.html
+https://beasthackerz.ru/pt/wi-fi-lokalnaya-set/kak-uznat-gde-sobran-telefon-po-imei-gde-byl-izgotovlen-vash-smartfon-kak.html
+https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity
