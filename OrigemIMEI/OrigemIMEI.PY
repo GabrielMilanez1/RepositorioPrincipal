@@ -1,6 +1,6 @@
 repetir = 1
 while repetir != 0:
-    print('Bem vindo ao programa "OrigemIMEI"!\n\nPara começar, digite "*#06*" em seu celular para descobrir o número IMEI. Após isso:')
+    print('Bem vindo ao programa "OrigemIMEI"!\n\nPara começar, digite "*#06#" em seu celular para descobrir o número IMEI. Após isso:')
     imei = str(input('\nDigite aqui o seu numero IMEI para a consulta (somente os 15 primeiros números): '))
     while type(imei) != int:
         if imei.isdigit() == True and len(imei) == 15:
